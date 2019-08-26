@@ -1,6 +1,7 @@
 {
     "name": "scandipwa/cms-graphql",
     "description": "ScandiPWA Graphql extension for CMS page",
+    "version": "1.0.1",
     "keywords": [
         "magento2",
         "scandipwa",
